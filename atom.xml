@@ -4,7 +4,7 @@
   <title><![CDATA[Seth Hall]]></title>
   <link href="http://middle8media.github.com/atom.xml" rel="self"/>
   <link href="http://middle8media.github.com/"/>
-  <updated>2012-11-16T15:31:25-05:00</updated>
+  <updated>2012-11-16T15:52:29-05:00</updated>
   <id>http://middle8media.github.com/</id>
   <author>
     <name><![CDATA[Seth Hall]]></name>
@@ -21,6 +21,14 @@
     <content type="html"><![CDATA[<h1>That is the question</h1>
 
 <p>I am wondering the same thing here</p>
+
+<h1>one of my favorite artists</h1>
+
+<p>{% wikipedia Neil Young %}</p>
+
+<h1>Video</h1>
+
+<p>{% vimeo 20241459 %}</p>
 ]]></content>
   </entry>
   
