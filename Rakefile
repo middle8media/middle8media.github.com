@@ -6,7 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "middle8media.com"
 ssh_port       = "22"
-document_root  = "~/triadindie.org/"
+document_root  = "/"
 rsync_delete   = true
 deploy_default = "push"
 

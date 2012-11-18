@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "source"
+		},
+		{
+			"path": "sass"
+		},
+		{
+			"path": "plugins"
+		},
+		{
+			"path": ".themes"
+		},
+		{
+			"path": "/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets"
+		}
+	]
+}
