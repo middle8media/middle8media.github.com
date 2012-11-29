@@ -4,7 +4,7 @@
   <title><![CDATA[Seth Hall]]></title>
   <link href="http://middle8media.github.com/atom.xml" rel="self"/>
   <link href="http://middle8media.github.com/"/>
-  <updated>2012-11-29T12:10:59-05:00</updated>
+  <updated>2012-11-29T12:12:52-05:00</updated>
   <id>http://middle8media.github.com/</id>
   <author>
     <name><![CDATA[Seth Hall]]></name>
@@ -12,26 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[M8M Design/Dev Workflow & AppStack]]></title>
-    <link href="http://middle8media.github.com/blog/2012/11/20/web-design-and-development-workflow-and-appstack/"/>
-    <updated>2012-11-20T16:08:00-05:00</updated>
-    <id>http://middle8media.github.com/blog/2012/11/20/web-design-and-development-workflow-and-appstack</id>
-    <content type="html"><![CDATA[<blockquote><p>Once this baby hits 88 miles per hour, you&#8217;re going to see some serious s*&t</p><footer><strong>Doc Brown</strong> <cite><a href='http://www.imdb.com/title/tt0088763/'>Back to the Future</a></cite></footer></blockquote>
-
-
-<p>This week I got inspired by the ever informative <a href="http://css-tricks.com">CSS-Tricks</a> and the immensely enjoyable <a href="http://shoptalkshow.com/">Shop Talk Show</a>, when both Chris Coyier and Dave Rupert shared their take on the tools and services of a professional Web Developer. They talked about <!-- more -->initial upfront costs, recurring monthly costs and their hardware/software of choice, <a href="http://css-tricks.com/web-developer-economics-monthly-service-costs/">Web Economics</a> as Chris Coyier calls it. Webonomics maybe? Maybe not.</p>
-
-<p><img class="center {{site.root}}" src="http://middle8media.github.com/images/css-shop.jpg" width="789" height="250" title="CSS-Tricks & Shop Talk Show" alt="CSS-Tricks & Shop Talk Show Logo"></p>
-
-<p>This post will focus on my essential hardware and software, my recurring yearly and monthly costs/plans/accounts, as well as how I ingrate all of that into my current front-end development workflow, from blank directory all the way to full deployment. I am not claiming these things to be the best way or the right way or the only way. I am simply sharing my way. So, without further ado, I present to you my professional tricks of the trade.</p>
-
-<h2>test</h2>
-
-<h1>Test</h1>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Winter]]></title>
