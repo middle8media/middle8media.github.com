@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Seth Hall]]></title>
-  <link href="http://middle8media.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Development | Seth Hall]]></title>
+  <link href="http://middle8media.github.com/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://middle8media.github.com/"/>
   <updated>2013-01-20T00:01:43-05:00</updated>
   <id>http://middle8media.github.com/</id>
@@ -18,15 +18,15 @@
     <link href="http://middle8media.github.com/blog/2013/01/19/tame-the-wild-with-statamic/"/>
     <updated>2013-01-19T22:14:00-05:00</updated>
     <id>http://middle8media.github.com/blog/2013/01/19/tame-the-wild-with-statamic</id>
-    <content type="html"><![CDATA[<p>This week I have been developing the web site/web app hybrid of our new independent film venture Indie Film Equities. IFE is the official funding portal for <a href="http://newriverreleasing.com">New River Releasing&#8217;s</a> feature length films, a place where Independent Filmmakers and Investors meet. The site is built on WordPress using the <a href="https://www.e-junkie.com/ecom/gb.php?ii=606601&amp;c=ib&amp;aff=214644&amp;cl=64302">Standard Theme</a>, and is set to launch sometime this year <em>(we are waiting on specific guidelines from the SEC, but that is another blog post.)</em></p>
+    <content type="html"><![CDATA[<p>This week I have been developing the web site/web app hybrid of our new independent film venture Indie Film Equities. IFE is the official funding portal for <a href="http://newriverreleasing.com">New River Releasing's</a> feature length films, a place where Independent Filmmakers and Investors meet. The site is built on WordPress using the <a href="https://www.e-junkie.com/ecom/gb.php?ii=606601&amp;c=ib&amp;aff=214644&amp;cl=64302">Standard Theme</a>, and is set to launch sometime this year <em>(we are waiting on specific guidelines from the SEC, but that is another blog post.)</em></p>
 
 <p>Anyway, As I was building out the membership login/payment functionality<!-- more -->, I was able to  seriously dive into PHP for the first time. PHP is the server-side language that makes up the heart and soul of WordPress and so far it is a lot of fun to work with. Wordpress has been and continues to be a great CMS for myself and my clients, but I have recently discovered a potential game changer for how I develop Content Management Systems, if not a complete game changer then at least a worthy option. I am referring to <a href="http://statamic.com/">Statamic</a>.</p>
 
-<p><img src="http://middle8media.github.com/images/statamic.png"></p>
+<p><img src="/images/statamic.png"></p>
 
 <p>Statamic is a dynamic, static site generator.  <code>static + dynamic = Statamic</code>. Pretty clever.</p>
 
-<p>In the words of Statamic&#8217;s creator <a href="http://jackmcdade.com/">Jack McDade</a></p>
+<p>In the words of Statamic's creator <a href="http://jackmcdade.com/">Jack McDade</a></p>
 
 <blockquote>Statamic is a dynamic, flat file content management system that’s completely powered by static files. That’s right, there’s no database in between your application and your content.</blockquote>
 
@@ -38,18 +38,6 @@
 <p>Has anyone used this platform? Is anyone developing Add-Ons?</p>
 
 <p>Please share your thoughts and experience.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Happy Winter]]></title>
-    <link href="http://middle8media.github.com/blog/2012/11/16/happy-winter/"/>
-    <updated>2012-11-16T14:57:00-05:00</updated>
-    <id>http://middle8media.github.com/blog/2012/11/16/happy-winter</id>
-    <content type="html"><![CDATA[<p>A little project I did for <a href="https://vimeo.com/groups/fivebyfive">5 vignettes</a>. Enjoy and have a Happy Winter :7)</p>
-
-<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/17566912 "></iframe></div>
-
 ]]></content>
   </entry>
   

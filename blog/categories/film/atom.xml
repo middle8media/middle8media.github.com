@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Film | Seth Hall]]></title>
   <link href="http://middle8media.github.com/blog/categories/film/atom.xml" rel="self"/>
   <link href="http://middle8media.github.com/"/>
-  <updated>2013-01-19T19:47:06-05:00</updated>
+  <updated>2013-01-20T00:01:43-05:00</updated>
   <id>http://middle8media.github.com/</id>
   <author>
     <name><![CDATA[Seth Hall]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tame the Wild]]></title>
+    <link href="http://middle8media.github.com/blog/2013/01/19/tame-the-wild-with-statamic/"/>
+    <updated>2013-01-19T22:14:00-05:00</updated>
+    <id>http://middle8media.github.com/blog/2013/01/19/tame-the-wild-with-statamic</id>
+    <content type="html"><![CDATA[<p>This week I have been developing the web site/web app hybrid of our new independent film venture Indie Film Equities. IFE is the official funding portal for <a href="http://newriverreleasing.com">New River Releasing's</a> feature length films, a place where Independent Filmmakers and Investors meet. The site is built on WordPress using the <a href="https://www.e-junkie.com/ecom/gb.php?ii=606601&amp;c=ib&amp;aff=214644&amp;cl=64302">Standard Theme</a>, and is set to launch sometime this year <em>(we are waiting on specific guidelines from the SEC, but that is another blog post.)</em></p>
+
+<p>Anyway, As I was building out the membership login/payment functionality<!-- more -->, I was able to  seriously dive into PHP for the first time. PHP is the server-side language that makes up the heart and soul of WordPress and so far it is a lot of fun to work with. Wordpress has been and continues to be a great CMS for myself and my clients, but I have recently discovered a potential game changer for how I develop Content Management Systems, if not a complete game changer then at least a worthy option. I am referring to <a href="http://statamic.com/">Statamic</a>.</p>
+
+<p><img src="/images/statamic.png"></p>
+
+<p>Statamic is a dynamic, static site generator.  <code>static + dynamic = Statamic</code>. Pretty clever.</p>
+
+<p>In the words of Statamic's creator <a href="http://jackmcdade.com/">Jack McDade</a></p>
+
+<blockquote>Statamic is a dynamic, flat file content management system that’s completely powered by static files. That’s right, there’s no database in between your application and your content.</blockquote>
+
+
+<p>That sounds pretty awesome to me. Bring it.</p>
+
+<p>There are tons of resources and documentation on the <a href="http://statamic.com/">Statamic Home Page</a> and the developer community is already robust, which means this platform should be in active development for a while and the third party add-ons should cover a variety of needs. Also, at $29 for a Personal license and $99 for a Professional license, you get a lot of bang for your buck. Without a doubt, I will be buying this for my next project.</p>
+
+<p>Has anyone used this platform? Is anyone developing Add-Ons?</p>
+
+<p>Please share your thoughts and experience.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Winter]]></title>
