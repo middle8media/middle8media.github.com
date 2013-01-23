@@ -4,7 +4,7 @@
   <title><![CDATA[Seth Hall]]></title>
   <link href="http://middle8media.github.com/atom.xml" rel="self"/>
   <link href="http://middle8media.github.com/"/>
-  <updated>2013-01-20T00:01:43-05:00</updated>
+  <updated>2013-01-23T13:14:06-05:00</updated>
   <id>http://middle8media.github.com/</id>
   <author>
     <name><![CDATA[Seth Hall]]></name>
@@ -18,9 +18,9 @@
     <link href="http://middle8media.github.com/blog/2013/01/19/tame-the-wild-with-statamic/"/>
     <updated>2013-01-19T22:14:00-05:00</updated>
     <id>http://middle8media.github.com/blog/2013/01/19/tame-the-wild-with-statamic</id>
-    <content type="html"><![CDATA[<p>This week I have been developing the web site/web app hybrid of our new independent film venture Indie Film Equities. IFE is the official funding portal for <a href="http://newriverreleasing.com">New River Releasing&#8217;s</a> feature length films, a place where Independent Filmmakers and Investors meet. The site is built on WordPress using the <a href="https://www.e-junkie.com/ecom/gb.php?ii=606601&amp;c=ib&amp;aff=214644&amp;cl=64302">Standard Theme</a>, and is set to launch sometime this year <em>(we are waiting on specific guidelines from the SEC, but that is another blog post.)</em></p>
+    <content type="html"><![CDATA[<p>This week I have been developing the web site/web app hybrid of our new independent film venture Indie Film Equities. IFE is the official funding portal for <a href="http://newriverreleasing.com">New River Releasing&#8217;s</a> feature length films, a place where Independent Filmmakers and Investors meet. The site is built on WordPress using the <a href="https://www.e-junkie.com/ecom/gb.php?ii=606601&amp;c=ib&amp;aff=214644&amp;cl=64302">Standard Theme</a>, and is set to launch sometime this year <em>(we are waiting on specific guidelines from the SEC, but that is another blog post)</em>. As I was building out the membership login/payment functionality<!-- more -->, I was able to  seriously dive into PHP for the first time. PHP is the server-side language that makes up the heart and soul of WordPress and so far it is a lot of fun to work with.</p>
 
-<p>Anyway, As I was building out the membership login/payment functionality<!-- more -->, I was able to  seriously dive into PHP for the first time. PHP is the server-side language that makes up the heart and soul of WordPress and so far it is a lot of fun to work with. Wordpress has been and continues to be a great CMS for myself and my clients, but I have recently discovered a potential game changer for how I develop Content Management Systems, if not a complete game changer then at least a worthy option. I am referring to <a href="http://statamic.com/">Statamic</a>.</p>
+<p>Anyway, Wordpress has been and continues to be a great CMS for myself and my clients, but I have recently discovered a potential game changer for how I develop Content Management Systems, if not a complete game changer then at least a worthy option. I am referring to <a href="http://statamic.com/">Statamic</a>.</p>
 
 <p><img src="http://middle8media.github.com/images/statamic.png"></p>
 
