@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ProTip | Seth Hall]]></title>
+  <link href="http://middle8media.github.com/blog/categories/protip/atom.xml" rel="self"/>
+  <link href="http://middle8media.github.com/"/>
+  <updated>2013-01-24T14:00:24-05:00</updated>
+  <id>http://middle8media.github.com/</id>
+  <author>
+    <name><![CDATA[Seth Hall]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Chrome Web Inspector - Dock to Right]]></title>
+    <link href="http://middle8media.github.com/blog/2013/01/24/chrome-web-inspector-dock-to-right/"/>
+    <updated>2013-01-24T13:46:00-05:00</updated>
+    <id>http://middle8media.github.com/blog/2013/01/24/chrome-web-inspector-dock-to-right</id>
+    <content type="html"><![CDATA[<p>I recently saw a Paul Irish video where he had his Chrome Web Inspector docked on the right. In my development workflow Chrome Web Inspector was always docked on the bottom, but seeing it docked on the right just made more sense. So I decided to enable that feature, but I initially had trouble finding it. So I thought I would share how to find the "Dock to Right" feature for anyone else having this trouble.</p>
+
+<p>Here you go...</p>
+
+<pre><code>Right Click
+Inspect Element  or ( ALT + CMD + i )
+Find the dock icon at bottom left
+Long click for "Dock to Right" option
+Done
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
