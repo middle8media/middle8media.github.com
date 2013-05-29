@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Design | Seth Hall]]></title>
+  <link href="http://middle8media.github.com/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://middle8media.github.com/"/>
+  <updated>2013-05-29T11:34:35-04:00</updated>
+  <id>http://middle8media.github.com/</id>
+  <author>
+    <name><![CDATA[Seth Hall]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Adventures in Wi-Fi]]></title>
+    <link href="http://middle8media.github.com/blog/2013/05/29/new-adventures-in-wi-fi/"/>
+    <updated>2013-05-29T10:26:00-04:00</updated>
+    <id>http://middle8media.github.com/blog/2013/05/29/new-adventures-in-wi-fi</id>
+    <content type="html"><![CDATA[<p>So this week I started a new adventure. I accepted a full time, remote position at <a href="http://ushahidi.com/">Ushahidi</a> as their Front-End Designer &amp; Developer. This week is my first week and so far, so good. I am working with an amazing global team that spans across 7 time zones. They are awesome people and have provided a very warm welcome. <!-- more --></p>
+
+<h2>OK, but what does Ushahidi actually do?</h2>
+
+<p><blockquote><p>"We're a non-profit tech company that specializes in developing free and open source software for information collection, visualization and interactive mapping."</p></blockquote></p>
+
+<p>Unpacked, we build things: mostly software platforms, but sometimes <a href="http://brck.com/">hardware</a>, too.</p>
+
+<p><img class="center" src="http://5d0851659fb2c02cd1ff-af1bbd52513c4a786d3ef25bdd02ad4c.r84.cf1.rackcdn.com/wp-content/uploads/2013/05/promo-brck-500x260.jpg" width="789" title="brck" alt="alt"></p>
+
+<h2>What Else?</h2>
+
+<p><blockquote><p>"We build tools for democratizing information, increasing transparency and lowering the barriers for individuals to share their stories."</p></blockquote></p>
+
+<p><blockquote><p>"We're a disruptive organization that is willing to take risks in the pursuit of changing the traditional way that information flows."</p></blockquote></p>
+
+<p>Unpacked: Ushahidi tends to try new, edgy things. We work in spaces where the idea is that we're disrupting some status quo organization or industry for the good of ordinary people (the crowd). This of course means that we're okay with people not at first getting what we do, or liking it.</p>
+
+<h3>In other words ... my kind of place!!</h3>
+
+<p>Needless to say I am very excited to be a part of such a visionary and global company. Thanks to the <a href="http://www.ushahidi.com/about-us/team">Ushahidi Team</a> for the opportunity to learn, grow and help make a difference.</p>
+
+<p>Check us out <a href="http://ushahidi.com/">online</a> and follow us on <a href="https://twitter.com/ushahidi">Twitter</a> for product releases, news and updates.</p>
+]]></content>
+  </entry>
+  
+</feed>
