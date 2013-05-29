@@ -3,11 +3,29 @@
 
 @import "_wikipedia.scss";
 
-#about img {
+.gravatar-img {
 	float: left;
 	margin: 0 20px 20px 0;
 }
 
 .entry-title a:hover {
 	text-decoration: none;
+}
+
+body hgroup h2 {
+	font-size: .8em;
+}
+
+body hgroup h3 {
+	color: $subsubtitle-color;
+	font-size: .7em;
+	font-weight: normal;
+	margin: .2em 0 0 0;
+}
+
+#content .blog-index a[rel="full-article"] {
+  -webkit-transition: all 0s;
+  -moz-transition: all 0s;
+  -o-transition: all 0s;
+  transition: all 0s;
 }

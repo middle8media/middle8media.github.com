@@ -4,10 +4,11 @@
 
 url: http://middle8media.github.com
 title: Seth Hall
-subtitle: Adventures in Web and Film.
-author: Seth Hall ✪ Middle8Media
+subtitle: Web Developer & Independent Filmmaker - Greensboro, NC
+# subsubtitle: Greensboro, NC
+author: Seth Hall
 simple_search: http://google.com/search
-description: These are my experiences as a creative business owner and artist.
+description: Adventures in Web Design, Front-End Design / Development & Filmmaking.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -65,7 +66,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: middle8media
-twitter_tweet_count: 4
+twitter_tweet_count: 2
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -89,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: middle8media
+disqus_short_name: sethhall
 disqus_show_comment_count: true
 
 # Google Analytics

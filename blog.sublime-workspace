@@ -4,8 +4,12 @@
 		"selected_items":
 		[
 			[
+				"image",
+				"%image	image"
+			],
+			[
 				"octo",
-				"octo	Vimeo"
+				"octo	Backtick Code"
 			],
 			[
 				"text",
@@ -235,20 +239,44 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 351.0,
 		"selected_items":
 		[
 			[
-				"octopress",
-				"Snippet: Octopress - Insert code block"
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Pandoc: Render Markdown to temp HTML and View"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdo",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mak",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
 				"lorem",
 				"Snippet: lorem - Medium paragraph <p>"
+			],
+			[
+				"octopress",
+				"Snippet: Octopress - Insert code block"
 			],
 			[
 				"div",
@@ -265,10 +293,6 @@
 			[
 				"divi",
 				"Snippet: divider2"
-			],
-			[
-				"lint",
-				"SublimeLinter: Disable Linting"
 			],
 			[
 				"linter",
@@ -512,12 +536,53 @@
 	},
 	"file_history":
 	[
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2012-11-16-2nd-post.markdown",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/about/index.markdown",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2012-11-16-what-am-i-doing-here.markdown",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/vimeo.sublime-snippet",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/sass/custom/_styles.scss",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/custom/head.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2013-01-19-tame-the-wild-with-statamic.markdown",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2013-01-24-chrome-web-inspector-dock-to-right.markdown",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/_config.yml",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/sass/custom/_styles.scss",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2012-11-20-web-design-and-development-workflow-and-appstack.markdown",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/ringfalcon/open",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/sass/custom/_colors.scss",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/sass/custom/_layout.scss",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/about/index.markdown",
+		"/Users/M8M/.zshrc",
+		"/Users/M8M/.bash_profile",
+		"/Users/M8M/.bashrc",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/custom/footer.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2012-11-16-happy-winter.markdown",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2012-11-16-what-am-i-doing-here.markdown",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_posts/2012-11-16-2nd-post.markdown",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/custom/asides/aboutmetwitter.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_layouts/about_default.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_layouts/about_page.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/head.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/about_head.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_layouts/about_defalut.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_layouts/about.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/about-head.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_layouts/about-page.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/about.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_layouts/default.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_layouts/page.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/custom/header.html",
+		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/blog.sublime-project",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-backtick-code-blocks.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-code.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-blockquote.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-gist.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-image.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-include-array.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-include-code.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-jsFiddle-tag.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-pullquote.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/octopress-video.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/M8M-Octopress-Snippets/vimeo.sublime-snippet",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2",
+		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/vimeo.sublime-snippet",
 		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/octopress-video.sublime-snippet",
 		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/octopress-pullquote.sublime-snippet",
 		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/octopress-blockquote.sublime-snippet",
@@ -528,13 +593,10 @@
 		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/octopress-include-code.sublime-snippet",
 		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/octopress-jsFiddle-tag.sublime-snippet",
 		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Octopress-Snippets-for-Sublime-Text-2/octopress-backtick-code-blocks.sublime-snippet",
-		"/Users/M8M/.bash_profile",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/_includes/custom/navigation.html",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/blog.sublime-project",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/blog.sublime-workspace",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/blog/about/index.html",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/source/blog/archives/index.html",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/sass/custom/_colors.scss",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/test/test.html",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/test.html",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/asides/gravatar.html",
@@ -548,7 +610,6 @@
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/sass/custom/_wikipedia.scss",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/.themes/classic/sass/custom/_colors.scss",
 		"/Users/M8M/.rvm/gems/ruby-1.9.3-p286/gems/compass-0.12.2/lib/compass/sass_extensions/functions/inline_image.rb",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/sass/custom/_layout.scss",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/.themes/classic/sass/custom/_styles.scss",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/.themes/classic/sass/base/_theme.scss",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/octopress/.sass-cache/9ecbded999f1fbca680f99caf4bbf17ef7b48fb0/_styles.scssc",
@@ -599,47 +660,10 @@
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/index-old.php",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_zen-grids.scss",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_grid.scss",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/css/style.css",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/style.scss",
 		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/js/jquery.easing.js",
-		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/tifn/js/scrollspy.js",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/js/scrollspy.js",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/index-gumby.php",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_gumby.css",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/index-pre-gumby.php",
-		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/tifn/js/app.js",
-		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/tifn/js/app-ck.js",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_animations.scss",
-		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/tifn/css/style.css",
-		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/tifn/fruitcake/index.php",
-		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/tifn/index.php",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/index-copy.php",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/fruit-cake/index.php",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_includes.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/variables.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_960.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_green-shorts.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/_normalize.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/scss/fruit-cake.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/css/fruit-cake.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/TIFN/style.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/SelfStarter/config/settings.yml",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/SelfStarter/app/assets/stylesheets/variables.css.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/SelfStarter/app/assets/stylesheets/primitives.css.scss",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/SelfStarter/script.coffee",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/README.md",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/ife/wp-content/themes/standard-child-theme-kit/header.php",
-		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/freeticket2hell/wp-content/themes/twentyeleven_child/footer.php",
-		"/Users/M8M/M8M Cloud/test.html",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/DocBlockr/README.md",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/ife/test.css",
-		"/Users/M8M/Dropbox/webdesign/localroot_db/htdocs/ife/ife/test.css",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
-		"/Users/M8M/Library/Application Support/Sublime Text 2/Packages/User/HTML/script-src.sublime-snippet"
+		"/Users/M8M/Library/Application Support/Flow/Editor/home5/middleei/public_html/tifn/js/scrollspy.js"
 	],
 	"find":
 	{
@@ -658,6 +682,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"none",
+			"5",
+			"0.3s",
+			"save",
+			"spac",
+			"subtitle",
 			"Octopress-Blog",
 			"archive",
 			"blog",
@@ -779,13 +809,7 @@
 			"block",
 			"lighten",
 			"block",
-			"gray",
-			"font",
-			"family",
-			"font",
-			"sans",
-			"1px",
-			"spotlight"
+			"gray"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -893,6 +917,22 @@
 		"selected_items":
 		[
 			[
+				"chrome",
+				"source/_posts/2013-01-24-chrome-web-inspector-dock-to-right.markdown"
+			],
+			[
+				"style",
+				"sass/custom/_styles.scss"
+			],
+			[
+				"page",
+				"source/_layouts/page.html"
+			],
+			[
+				"posts",
+				"source/_posts/2012-11-16-2nd-post.markdown"
+			],
+			[
 				"config",
 				"_config.yml"
 			],
@@ -903,10 +943,6 @@
 			[
 				"_style",
 				".themes/classic/sass/custom/_styles.scss"
-			],
-			[
-				"style",
-				"sass/custom/_styles.scss"
 			],
 			[
 				"rake",
@@ -963,6 +999,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 206.0,
+	"side_bar_width": 310.0,
 	"status_bar_visible": true
 }
