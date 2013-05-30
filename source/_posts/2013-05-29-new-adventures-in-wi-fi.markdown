@@ -34,3 +34,9 @@ Unpacked: Ushahidi tends to try new, edgy things. We work in spaces where the id
 Needless to say I am very excited to be a part of such a visionary and global company. Thanks to the [Ushahidi Team](http://www.ushahidi.com/about-us/team) for the opportunity to learn, grow and help make a difference.
 
 Check us out [online](http://ushahidi.com/) and follow us on [Twitter](https://twitter.com/ushahidi) for product releases, news and updates.
+
+##UPDATE:
+
+<div class="update">
+  I liked the name of this post so much, I decided to use it for my blog title. We will see how long it lasts. :) 
+</div>
