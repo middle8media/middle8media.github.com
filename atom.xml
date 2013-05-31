@@ -4,7 +4,7 @@
   <title><![CDATA[Adventures in Wi-Fi]]></title>
   <link href="http://middle8media.github.com/atom.xml" rel="self"/>
   <link href="http://middle8media.github.com/"/>
-  <updated>2013-05-30T15:17:09-04:00</updated>
+  <updated>2013-05-31T15:42:36-04:00</updated>
   <id>http://middle8media.github.com/</id>
   <author>
     <name><![CDATA[Seth Hall]]></name>
@@ -27,7 +27,7 @@
 
 <p>Unpacked, we build things: mostly software platforms, but sometimes <a href="http://brck.com/">hardware</a>, too.</p>
 
-<p><img class="center" src="http://5d0851659fb2c02cd1ff-af1bbd52513c4a786d3ef25bdd02ad4c.r84.cf1.rackcdn.com/wp-content/uploads/2013/05/promo-brck-500x260.jpg" width="789" title="brck" alt="alt"></p>
+<p><img src="http://middle8media.github.com/assets/brck.jpg" title="brck" alt="alt"></p>
 
 <h2>What Else?</h2>
 
@@ -83,7 +83,7 @@ Done
 
 <p>Anyway, Wordpress has been and continues to be a great CMS for myself and my clients, but I have recently discovered a potential game changer for how I develop Content Management Systems, if not a complete game changer then at least a worthy option. I am referring to <a href="http://statamic.com/">Statamic</a>.</p>
 
-<p><img src="http://middle8media.github.com/images/statamic.png"></p>
+<p><img src="http://middle8media.github.com/assets/statamic.png"></p>
 
 <p>Statamic is a dynamic, static site generator.  <code>static + dynamic = Statamic</code>. Pretty clever.</p>
 
