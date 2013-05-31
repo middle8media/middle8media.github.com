@@ -15,7 +15,7 @@ So this week I started a new adventure. I accepted a full time, remote position 
 
 Unpacked, we build things: mostly software platforms, but sometimes [hardware](http://brck.com/), too.
 
-{% img center http://5d0851659fb2c02cd1ff-af1bbd52513c4a786d3ef25bdd02ad4c.r84.cf1.rackcdn.com/wp-content/uploads/2013/05/promo-brck-500x260.jpg 789 auto 'brck' 'alt' %}
+{% img /assets/brck.jpg auto 'brck' 'alt' %}
 
 ##What Else?
 

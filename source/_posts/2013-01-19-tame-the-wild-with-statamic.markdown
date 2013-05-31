@@ -10,7 +10,7 @@ This week I have been developing the web site/web app hybrid of our new independ
 
 Anyway, Wordpress has been and continues to be a great CMS for myself and my clients, but I have recently discovered a potential game changer for how I develop Content Management Systems, if not a complete game changer then at least a worthy option. I am referring to [Statamic](http://statamic.com/).
 
-{% img /images/statamic.png %}
+{% img /assets/statamic.png %}
 
 Statamic is a dynamic, static site generator.  <code>static + dynamic = Statamic</code>. Pretty clever.
 
